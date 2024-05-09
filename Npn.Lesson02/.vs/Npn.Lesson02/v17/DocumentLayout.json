@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\npn.lesson02\\views\\npnstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|solutionrelative:npn.lesson02\\views\\npnstudent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\npn.lesson02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|solutionrelative:npn.lesson02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\npn.lesson02\\controllers\\npnstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|solutionrelative:npn.lesson02\\controllers\\npnstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|c:\\k22cnt3\\k22cnt3-aspnetmvc-nguyenphunam\\npn.lesson02\\npn.lesson02\\views\\npnstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|solutionrelative:npn.lesson02\\views\\npnstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|c:\\k22cnt3\\k22cnt3-aspnetmvc-nguyenphunam\\npn.lesson02\\npn.lesson02\\views\\npnstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8018B32F-24E7-41C6-A9B7-1F074FEEB1F9}|Npn.Lesson02\\Npn.Lesson02.csproj|solutionrelative:npn.lesson02\\views\\npnstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ketqua.cshtml",
+              "DocumentMoniker": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\NpnStudent\\Ketqua.cshtml",
+              "RelativeDocumentMoniker": "Npn.Lesson02\\Views\\NpnStudent\\Ketqua.cshtml",
+              "ToolTip": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\NpnStudent\\Ketqua.cshtml",
+              "RelativeToolTip": "Npn.Lesson02\\Views\\NpnStudent\\Ketqua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T08:51:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewStudent.cshtml",
+              "DocumentMoniker": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\NpnStudent\\AddNewStudent.cshtml",
+              "RelativeDocumentMoniker": "Npn.Lesson02\\Views\\NpnStudent\\AddNewStudent.cshtml",
+              "ToolTip": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\NpnStudent\\AddNewStudent.cshtml",
+              "RelativeToolTip": "Npn.Lesson02\\Views\\NpnStudent\\AddNewStudent.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T08:25:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NpnStudentController.cs",
+              "DocumentMoniker": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Controllers\\NpnStudentController.cs",
+              "RelativeDocumentMoniker": "Npn.Lesson02\\Controllers\\NpnStudentController.cs",
+              "ToolTip": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Controllers\\NpnStudentController.cs",
+              "RelativeToolTip": "Npn.Lesson02\\Controllers\\NpnStudentController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:10:21.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Npn.Lesson02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Npn.Lesson02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T04:05:22.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\NpnStudent\\Index.cshtml",
+              "RelativeDocumentMoniker": "Npn.Lesson02\\Views\\NpnStudent\\Index.cshtml",
+              "ToolTip": "C:\\K22CNT3\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Npn.Lesson02\\Npn.Lesson02\\Views\\NpnStudent\\Index.cshtml",
+              "RelativeToolTip": "Npn.Lesson02\\Views\\NpnStudent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T04:12:14.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

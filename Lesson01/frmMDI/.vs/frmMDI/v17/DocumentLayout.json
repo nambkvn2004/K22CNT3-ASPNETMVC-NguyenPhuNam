@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\K22CNT3\\ASPNETMVC\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Lesson01\\frmMDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{572A3629-F668-4E6D-B559-47B3A7840195}|frmMDI\\frmMDI.csproj|c:\\k22cnt3\\aspnetmvc\\k22cnt3-aspnetmvc-nguyenphunam\\lesson01\\frmmdi\\frmmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{572A3629-F668-4E6D-B559-47B3A7840195}|frmMDI\\frmMDI.csproj|solutionrelative:frmmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572A3629-F668-4E6D-B559-47B3A7840195}|frmMDI\\frmMDI.csproj|c:\\k22cnt3\\aspnetmvc\\k22cnt3-aspnetmvc-nguyenphunam\\lesson01\\frmmdi\\frmmdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572A3629-F668-4E6D-B559-47B3A7840195}|frmMDI\\frmMDI.csproj|solutionrelative:frmmdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\K22CNT3\\ASPNETMVC\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Lesson01\\frmMDI\\frmMDI\\Program.cs",
+              "RelativeDocumentMoniker": "frmMDI\\Program.cs",
+              "ToolTip": "C:\\K22CNT3\\ASPNETMVC\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Lesson01\\frmMDI\\frmMDI\\Program.cs",
+              "RelativeToolTip": "frmMDI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:35:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\K22CNT3\\ASPNETMVC\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Lesson01\\frmMDI\\frmMDI\\Form1.cs",
+              "RelativeDocumentMoniker": "frmMDI\\Form1.cs",
+              "ToolTip": "C:\\K22CNT3\\ASPNETMVC\\K22CNT3-ASPNETMVC-NguyenPhuNam\\Lesson01\\frmMDI\\frmMDI\\Form1.cs [Design]",
+              "RelativeToolTip": "frmMDI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T01:34:58.18Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
